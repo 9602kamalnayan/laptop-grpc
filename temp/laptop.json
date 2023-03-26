@@ -1,0 +1,62 @@
+{
+ "id": "565cf848-26f8-463a-a17d-6064c3e3ea07",
+ "brand": "Lenov",
+ "name": "Thinkpad p1",
+ "cpu": {
+  "brand": "Intel",
+  "name": "Xenon E-22687",
+  "numberCores": 6,
+  "numberThreds": 12,
+  "minGhz": 2.188551780860588,
+  "maxGhz": 4.40003751651852
+ },
+ "ram": {
+  "value": "14",
+  "unit": 5
+ },
+ "gpus": [
+  {
+   "brand": "AMD",
+   "name": "RX 580",
+   "minGhz": 1.1214665198504532,
+   "maxGhz": 1.7324682436000496,
+   "memory": {
+    "value": "5",
+    "unit": 5
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": 1,
+   "memory": {
+    "value": "1",
+    "unit": 6
+   }
+  },
+  {
+   "driver": 2,
+   "memory": {
+    "value": "978",
+    "unit": 5
+   }
+  }
+ ],
+ "screen": {
+  "sizeInch": 13.24308,
+  "resolution": {
+   "width": 2517,
+   "height": 1416
+  },
+  "panel": 2,
+  "multitouch": false
+ },
+ "keyboard": {
+  "layout": 3,
+  "backlit": false
+ },
+ "weightKg": 2.2539949135994934,
+ "priceUsd": 1771.0428318630318,
+ "releaseYear": 2023,
+ "updatedAt": "2023-03-14T19:49:04.068755800Z"
+}
